@@ -2,7 +2,7 @@
 //
 // evenElements([1,2,3,4]) should return [2,4]
 // Hint: use the % operator
-// What happens if there are no even numbers?
+// What happens if there are no even numbers? 
 var arr = [1, 2, 3, 4]
 var evenArr = []
 function modEven() {

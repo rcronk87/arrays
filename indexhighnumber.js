@@ -11,7 +11,7 @@ var arr = [17, 28, 43, -2, -34]
 for (var i = 0; i <arr.length; i++);{
   Math.abs(arr);
 console.log(Math.abs(arr));
-}
+} 
 //    arr.sort(function(element1, element2) {
 //         return element1-element2;
 //         for (var i = 0; i <arr.length; i++);{

@@ -5,7 +5,7 @@ for (i =0; i <arr.length; i++) {
   startValue += arr[i]
 }
 
-function sum(arr) {
+function sum(arr) { 
   var total = 0
 
   for (i =0; i <arr.length; i++) {

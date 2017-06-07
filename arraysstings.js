@@ -13,7 +13,7 @@ arr1.sort()
 // Sort your parents names in reverse alphabetical order.
 //
 arr2.sort()
-arr2.reverse(arr2)
+arr2.reverse(arr2) 
 
 // Sort all the names in alphabetical order.
 

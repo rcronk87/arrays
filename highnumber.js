@@ -7,7 +7,7 @@
 // var arr = [17, 28, 43, 2, 34]
 // var highNum= arr.sort(function(element1, element2) {
 //         element2-element1;
-//         return highNum
+//         return highNum 
 // });
 
 var arr = [17, 28, 43, -2, -34]
